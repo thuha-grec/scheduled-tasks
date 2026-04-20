@@ -1,5 +1,2 @@
 pandas
 requests
-datetime
-random
-os
